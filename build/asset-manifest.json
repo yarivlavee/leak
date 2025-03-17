@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/leak-detection/static/css/main.f45d3930.css",
+    "main.js": "/leak-detection/static/js/main.ac6bc7fc.js",
+    "static/js/453.ef09fbb6.chunk.js": "/leak-detection/static/js/453.ef09fbb6.chunk.js",
+    "index.html": "/leak-detection/index.html",
+    "main.f45d3930.css.map": "/leak-detection/static/css/main.f45d3930.css.map",
+    "main.ac6bc7fc.js.map": "/leak-detection/static/js/main.ac6bc7fc.js.map",
+    "453.ef09fbb6.chunk.js.map": "/leak-detection/static/js/453.ef09fbb6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f45d3930.css",
+    "static/js/main.ac6bc7fc.js"
+  ]
+}
